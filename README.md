@@ -5,7 +5,7 @@ Everybody knows this game from childhood. This is the game, where the price of a
 
 Origin of this project:[Hyperskill - Tic Tac Toe](https://hyperskill.org/projects/48?goal=7)
 
-In this game there is 3 mode.
+In this game there is 3 **mode**.
 * easy
 * medium
 * hard
@@ -15,5 +15,10 @@ To play the game use this command:
 start user easy
 ```
 
-Here is the preview of the game:
+### Here is the preview of the game:
 ![Deme Preview](https://stepik.org/media/attachments/lesson/209897/demonstration.gif)
+
+
+### Software Use:
+* Java 12
+* Intellij IDEA 2019
